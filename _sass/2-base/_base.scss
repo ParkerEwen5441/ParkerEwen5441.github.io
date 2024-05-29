@@ -232,7 +232,7 @@ table td {
     width: 100%;
     height: 500px;
     object-fit: cover;
-    object-position: 20px -600px;
+    object-position: center center;
   }
 
   @media (max-width: $mobile) {
