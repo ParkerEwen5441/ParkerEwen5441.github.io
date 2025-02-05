@@ -1,6 +1,6 @@
 ---
 title: "Modeling Uncertainty in 3D Gaussian Splatting through Continuous Semantic Splatting"
-description: Modeling Uncertainty in 3D Gaussian Splatting through Continuous Semantic Splatting.
+description: Quantifying uncertainty in 3D Gaussian Splatting models for closed-set semantic estimates.
 date: 2025-02-05 00:00:00 +0300
 label: 
 image: /images/3DGS_Uncertainty.png
