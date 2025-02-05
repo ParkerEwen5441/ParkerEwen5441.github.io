@@ -1,6 +1,6 @@
 ---
 title: "LatentBKI: Open-Dictionary Continuous Mapping in Visual-Language Latent Spaces with Quantifiable Uncertainty"
-description: LatentBKI: Open-Dictionary Continuous Mapping in Visual-Language Latent Spaces with Quantifiable Uncertainty.
+description: A means of quantifying uncertainty for language embeddings in robotic maps.
 date: 2025-02-05 00:00:00 +0300
 label: 
 image: /images/lantentbki.png
